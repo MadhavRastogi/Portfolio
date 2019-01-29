@@ -25,8 +25,6 @@
                    				<div class="p-2"><a href="https://www.linkedin.com/in/madhav-rastogi-b06239172/" target="_blank"><i class="fa fa-linkedin"></i><br>LinkedIn</div>
                    				<div class="p-2"><a href="https://www.hackerrank.com/madhavrastogi28" target="_blank"><i class="fa fa-header"></i><br>Hackerrank</a></div>
                    				<div class="p-2"><a href="https://www.quora.com/profile/Madhav-Rastogi-3" target="_blank"><i class="fa fa-quora"></i><br>Quora</a></div>
-                   		       
-				
                   <div class="p-4 text-white" style="background-color:black"><i>##Algorithms developer and web designer##</i></div>
                   <div class="d-flex flex-row text-center text-white ">
                   	 <div class="p-4 bg-info font-div " style="width: 25%" data-toggle="collapse" data-target="#home">
