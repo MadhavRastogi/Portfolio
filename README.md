@@ -172,7 +172,7 @@
 
 <div class="collapse" id="work">
 	<div class="p-5 text-white bg-success font-italics">
-		<h2 class="mb-2"><i class="fa fa-line-chart" mb-"3" aria-hidden="true" >Work-so far..</i></h2>
+		<h2 class="mb-2"><i class="fa fa-line-chart" mb-"3" aria-hidden="true">Work-so far..</i></h2>
 		<p><i>~"CODE EAT SLEEP,REPEAT"~<i></p>
 	 </div>
 	<div class="card card-body">
